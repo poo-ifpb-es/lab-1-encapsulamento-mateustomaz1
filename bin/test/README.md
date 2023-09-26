@@ -1,3 +1,2 @@
-## Atenção
-
-Mova os casos de teste para cá conforme for trabalhando em classes específicas.
+Esse diretório inclui todos os testes, os já utilizados em exercícios passados e os atuais.
+Mova as classes de teste para `src/test/java` conforme precisar.
